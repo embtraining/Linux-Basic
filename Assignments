@@ -1,0 +1,17 @@
+
+
+01. While your computer is booting enter a 'DEL' key or 'F2' key 
+and enter into BIOS mode. In the BIOS settings try to find out 
+how to specify the first boot device as CD-ROM.
+
+02. Boot the computer using DEPIK's DSL CD. While booting from CD, at
+the boot prompt (Boot: ) give 'dsl 2' to boot Linux in command line (CLI) 
+mode.
+
+03. At the boot prompt (Boot:) press 'Enter' key to boot Linux in GUI mode.
+
+04. Once DSL is booted successful, click terminal icon present in the
+upper left corner of desktop and get the terminal window. At the terminal 
+window try the various Linux commands given.
+
+05. Using vi editor write hello.c program, compile and run
