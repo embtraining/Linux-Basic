@@ -1,0 +1,35 @@
+1. What are various layers in the computing system?
+2. Give examples of various applications so far you used in a computer?
+3. In a computer you are using, identify the IO devices present inside 
+the system box and outside the box.
+4. What are the various interfaces present in your computer and try to 
+identify the connectors present for each of these interfaces.
+5. Explain the computer booting sequence.
+6. What do you know about BIOS?
+7. What are the two types user interfaces provided by the operating system?
+8. What is the difference between GUI application and CLI application?
+9. What is the difference between standalone application and Network 
+application?
+10. Who are the different types of computer users?
+11. What is the difference between system programs and application programs?
+12. What is the root directory?
+13. What is the home directory?
+14. What are the following Linux commands? 
+pwd
+ls
+ls -l 
+mkdir 
+cd
+cp 
+rm 
+mv 
+cat
+15. How to create a new C program file by using vi editor?
+16. Hot to compile and generate an executable file using gcc command?
+17. What will be the default name of executable file that will get 
+created when you compile a C program file.
+18. How to generate executable file with a given name instead of default name?
+19. How do you run the executable file?
+20. How to access the windows drive from DSL Linux?
+21. How to use USB flash disk (pen drive) in DSL Linux?
+22. How to install DSL on a hard disk?
